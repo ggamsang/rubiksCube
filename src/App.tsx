@@ -1,8 +1,7 @@
-import './App.css'
+import React from 'react'
 import MyScene from './MyScene'
 
 function App() {
-
   return (<MyScene />
   )
 }
